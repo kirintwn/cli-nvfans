@@ -1,0 +1,22 @@
+[  {
+    "temperature": 0,
+    "speed": 0
+}, {
+    "temperature": 26,
+    "speed": 24
+}, {
+    "temperature": 50,
+    "speed": 45
+}, {
+    "temperature": 65,
+    "speed": 60
+}, {
+    "temperature": 69,
+    "speed": 80
+}, {
+    "temperature": 80,
+    "speed": 100
+}, {
+    "temperature": 100,
+    "speed": 100
+}]
